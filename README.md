@@ -35,7 +35,7 @@ to install all the required gems. then run
 ruby scraper.rb
 ```
 
-- to start the app in the cmd line.
+to start the app in the cmd line.
 
 ### Prerequisites
 
