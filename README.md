@@ -1,6 +1,6 @@
 # Covid-19 Scraper
 
-- A scraper that scrapes live #COVID-19 stats from the worldometers website. This scraper also allows you to call a function to search for data on a selected country.
+> A scraper that scrapes live #COVID-19 stats from the worldometers website. This scraper also allows you to call a function to search for data on a selected country.
 
 ## Live
 
