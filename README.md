@@ -6,6 +6,9 @@
 
 [Live Link](https://repl.it/@AdebolaOne/Corona-scraper)
 
+## Demo
+![corona-scraper-gif](./corona-scraper.gif)
+
 ## Built With
 
 - Ruby
